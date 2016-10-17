@@ -14,4 +14,7 @@ Read papers.
 
 - [x] [Real-Time Loop Closure in 2D LIDAR SLAM](http://research.google.com/pubs/pub45466.html)
 
+- [x] [Visual Thesaurus for Color Image Retrieval using Self-Organizing Maps ](http://www.ischool.drexel.edu/faculty/cyang/papers/yang2001e.pdf)
+
+
 
