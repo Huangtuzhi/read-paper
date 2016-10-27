@@ -10,7 +10,7 @@ Read papers.
 
 - [x] [Distributed representations of words and phrases and their compositionality](http://papers.nips.cc/paper/5021-distributed-representations)
 
-- [x] [Practical Lessons from Predicting Clicks on Ads at Facebook)
+- [x] [Practical Lessons from Predicting Clicks on Ads at Facebook](https://pdfs.semanticscholar.org/daf9/ed5dc6c6bad5367d7fd8561527da30e9b8dd.pdf)
 
 ## Robotics and Automation
 
