@@ -10,6 +10,8 @@ Read papers.
 
 - [x] [Distributed representations of words and phrases and their compositionality](http://papers.nips.cc/paper/5021-distributed-representations)
 
+- [x] [Practical Lessons from Predicting Clicks on Ads at Facebook)
+
 ## Robotics and Automation
 
 - [x] [Real-Time Loop Closure in 2D LIDAR SLAM](http://research.google.com/pubs/pub45466.html)
