@@ -20,5 +20,6 @@ Read papers.
 
 - [x] [Visual Thesaurus for Color Image Retrieval using Self-Organizing Maps ](http://www.ischool.drexel.edu/faculty/cyang/papers/yang2001e.pdf)
 
+## Advanced Algorithm
 
-
+- [ ] [The log-structured merge-tree (LSM-tree)](http://link.springer.com/article/10.1007/s002360050048)
