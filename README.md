@@ -12,7 +12,7 @@ Read papers.
 
 - [x] [Practical Lessons from Predicting Clicks on Ads at Facebook](https://pdfs.semanticscholar.org/daf9/ed5dc6c6bad5367d7fd8561527da30e9b8dd.pdf)
 
-- [ ] [XGBoost A Scalable Tree Boosting System](https://arxiv.org/pdf/1603.02754.pdf)
+- [x] [XGBoost A Scalable Tree Boosting System](https://arxiv.org/pdf/1603.02754.pdf)
 
 ## Robotics and Automation
 
