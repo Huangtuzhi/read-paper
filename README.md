@@ -25,4 +25,4 @@ Read papers.
 
 - [ ] [The log-structured merge-tree (LSM-tree)](http://link.springer.com/article/10.1007/s002360050048)
 
-- [ ] [A hardware efficient support vector machine architecture for FPGA](http://link.springer.com/article/10.1007/s002360050048) 
+- [ ] [A hardware efficient support vector machine architecture for FPGA](http://cas.ee.ic.ac.uk/people/ccb98/papers/MarkosFCCM10.pdf) 
