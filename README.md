@@ -13,16 +13,18 @@ Read papers.
 
 - [x] [XGBoost A Scalable Tree Boosting System](https://arxiv.org/pdf/1603.02754.pdf)
 
-- [ ] [Training Agent for First-Person Shooter Game with Actor-Critic Curriculum Learning](http://104.155.136.4:3000/pdf?id=Hk3mPK5gg)
-
 ## Robotics and Automation
 
 - [x] [Real-Time Loop Closure in 2D LIDAR SLAM](http://research.google.com/pubs/pub45466.html)
 
 - [x] [Visual Thesaurus for Color Image Retrieval using Self-Organizing Maps ](http://www.ischool.drexel.edu/faculty/cyang/papers/yang2001e.pdf)
 
+- [ ] [Training Agent for First-Person Shooter Game with Actor-Critic Curriculum Learning](http://104.155.136.4:3000/pdf?id=Hk3mPK5gg)
+
 ## Advanced Algorithm
 
 - [ ] [The log-structured merge-tree (LSM-tree)](http://link.springer.com/article/10.1007/s002360050048)
+
+## Hardware and Embedded System
 
 - [ ] [A hardware efficient support vector machine architecture for FPGA](http://cas.ee.ic.ac.uk/people/ccb98/papers/MarkosFCCM10.pdf) 
