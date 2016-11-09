@@ -23,7 +23,7 @@ Read papers.
 
 ## Advanced Algorithm
 
-- [ ] [The log-structured merge-tree (LSM-tree)](http://link.springer.com/article/10.1007/s002360050048)
+- [x] [The log-structured merge-tree (LSM-tree)](http://link.springer.com/article/10.1007/s002360050048)
 
 ## Hardware and Embedded System
 
