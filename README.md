@@ -19,7 +19,7 @@ Read papers.
 
 - [x] [Visual Thesaurus for Color Image Retrieval using Self-Organizing Maps ](http://www.ischool.drexel.edu/faculty/cyang/papers/yang2001e.pdf)
 
-- [ ] [Training Agent for First-Person Shooter Game with Actor-Critic Curriculum Learning](http://104.155.136.4:3000/pdf?id=Hk3mPK5gg)
+- [x] [Training Agent for First-Person Shooter Game with Actor-Critic Curriculum Learning](http://104.155.136.4:3000/pdf?id=Hk3mPK5gg)
 
 ## Advanced Algorithm
 
