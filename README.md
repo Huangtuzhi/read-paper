@@ -29,4 +29,4 @@ Read papers.
 
 ## Hardware and Embedded System
 
-- [ ] [A hardware efficient support vector machine architecture for FPGA](http://cas.ee.ic.ac.uk/people/ccb98/papers/MarkosFCCM10.pdf) 
+- [x] [A hardware efficient support vector machine architecture for FPGA](http://cas.ee.ic.ac.uk/people/ccb98/papers/MarkosFCCM10.pdf) 
