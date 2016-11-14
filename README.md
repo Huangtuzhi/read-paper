@@ -13,6 +13,8 @@ Read papers.
 
 - [x] [XGBoost A Scalable Tree Boosting System](https://arxiv.org/pdf/1603.02754.pdf)
 
+- [ ] [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://pdfs.semanticscholar.org/9fa3/720371e78d04973ce9752781bc337480b68f.pdf)
+
 ## Robotics and Automation
 
 - [x] [Real-Time Loop Closure in 2D LIDAR SLAM](http://research.google.com/pubs/pub45466.html)
