@@ -33,4 +33,4 @@ Read papers.
 
 ## System Architecture
 
-- [x] [Maglev: A Fast and Reliable Software Network Load Balancer](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/44824.pdf)
+- [ ] [Maglev: A Fast and Reliable Software Network Load Balancer](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/44824.pdf)
