@@ -30,3 +30,7 @@ Read papers.
 ## Hardware and Embedded System
 
 - [x] [A hardware efficient support vector machine architecture for FPGA](http://cas.ee.ic.ac.uk/people/ccb98/papers/MarkosFCCM10.pdf) 
+
+## System Architecture
+
+- [x] [Maglev: A Fast and Reliable Software Network Load Balancer](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/44824.pdf)
