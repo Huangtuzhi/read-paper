@@ -34,3 +34,8 @@ Read papers.
 ## System Architecture
 
 - [x] [Maglev: A Fast and Reliable Software Network Load Balancer](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/44824.pdf)
+
+## Sociology
+
+- [] [Playing with Strangers: Understanding Temporary Teams
+in League of Legends](http://dl.acm.org/citation.cfm?id=2658538)
