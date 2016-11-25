@@ -37,4 +37,4 @@ Read papers.
 
 ## Sociology
 
-- [ ] [Playing with Strangers: Understanding Temporary Teams in League of Legends](http://dl.acm.org/citation.cfm?id=2658538)
+- [x] [Playing with Strangers: Understanding Temporary Teams in League of Legends](http://dl.acm.org/citation.cfm?id=2658538)
