@@ -27,7 +27,7 @@ Read papers.
 
 - [x] [The log-structured merge-tree (LSM-tree)](http://link.springer.com/article/10.1007/s002360050048)
 
-- [ ] [Skip Lists: A Probabilistic Alternative to Balanced Trees](http://dl.acm.org/citation.cfm?id=78977)
+- [x] [Skip Lists: A Probabilistic Alternative to Balanced Trees](http://dl.acm.org/citation.cfm?id=78977)
 
 ## Hardware and Embedded System
 
