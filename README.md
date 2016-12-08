@@ -37,6 +37,8 @@ Read papers.
 
 - [x] [Maglev: A Fast and Reliable Software Network Load Balancer](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/44824.pdf)
 
+- [ ] [Dynamo: Amazon’s Highly Available Key-value Store](http://dl.acm.org/citation.cfm?id=1294281)
+
 ## Sociology
 
 - [x] [Playing with Strangers: Understanding Temporary Teams in League of Legends](http://dl.acm.org/citation.cfm?id=2658538)
