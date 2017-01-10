@@ -33,7 +33,7 @@ Read papers.
 
 - [x] [A hardware efficient support vector machine architecture for FPGA](http://cas.ee.ic.ac.uk/people/ccb98/papers/MarkosFCCM10.pdf) 
 
-- [ ] [A reconfigurable fabric for accelerating large-scale datacenter services](http://dl.acm.org/citation.cfm?id=2665678)
+- [x] [A reconfigurable fabric for accelerating large-scale datacenter services](http://dl.acm.org/citation.cfm?id=2665678)
 
 ## System Architecture
 
