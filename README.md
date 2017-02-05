@@ -41,7 +41,7 @@ Read papers.
 
 - [x] [Dynamo: Amazon’s Highly Available Key-value Store](http://dl.acm.org/citation.cfm?id=1294281)
 
-- [ ] [Ceph: A Scalable, High-Performance Distributed File System](http://dl.acm.org/citation.cfm?id=1298485)
+- [x] [Ceph: A Scalable, High-Performance Distributed File System](http://dl.acm.org/citation.cfm?id=1298485)
 
 ## Sociology
 
