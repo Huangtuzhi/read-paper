@@ -29,7 +29,7 @@ Read papers.
 
 - [x] [Skip Lists: A Probabilistic Alternative to Balanced Trees](http://dl.acm.org/citation.cfm?id=78977)
 
-- [ ] [Implementing Lock-Free Queues](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.8674&rep=rep1&type=pdf)
+- [x] [Implementing Lock-Free Queues](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.8674&rep=rep1&type=pdf)
 
 ## Hardware and Embedded System
 
