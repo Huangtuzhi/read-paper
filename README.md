@@ -47,6 +47,8 @@ Read papers.
 
 - [x] [Ceph: A Scalable, High-Performance Distributed File System](http://dl.acm.org/citation.cfm?id=1298485)
 
+- [ ] [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://research.google.com/pubs/pub36356.html)
+
 ## Sociology
 
 - [x] [Playing with Strangers: Understanding Temporary Teams in League of Legends](http://dl.acm.org/citation.cfm?id=2658538)
