@@ -27,7 +27,7 @@ Read papers.
 
 - [ ] [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)
 
-- [ ] [TensorFlow code for Curiosity-driven Exploration for Deep Reinforcement Learning](https://arxiv.org/abs/1705.05363)
+- [ ] [Curiosity-driven Exploration for Deep Reinforcement Learning](https://arxiv.org/abs/1705.05363)
 
 ## Advanced Algorithm
 
