@@ -25,6 +25,8 @@ Read papers.
 
 - [x] [Training Agent for First-Person Shooter Game with Actor-Critic Curriculum Learning](http://104.155.136.4:3000/pdf?id=Hk3mPK5gg)
 
+- [ ] [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)
+
 ## Advanced Algorithm
 
 - [x] [The log-structured merge-tree (LSM-tree)](http://link.springer.com/article/10.1007/s002360050048)
