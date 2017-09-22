@@ -27,6 +27,8 @@ Read papers.
 
 - [ ] [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)
 
+- [ ] [TensorFlow code for Curiosity-driven Exploration for Deep Reinforcement Learning](https://arxiv.org/abs/1705.05363)
+
 ## Advanced Algorithm
 
 - [x] [The log-structured merge-tree (LSM-tree)](http://link.springer.com/article/10.1007/s002360050048)
